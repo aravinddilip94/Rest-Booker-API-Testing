@@ -1,0 +1,1 @@
+newman run --disable-unicode "D:\\Projects\\RestfulBooker\\Booking_API.json" -e "D:\\Projects\\RestfulBooker\\Environment.json" --reporters=cli,htmlextra
